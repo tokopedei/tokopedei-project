@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mazon Online - Single Page Web Application (Full Stack Project)
 
 <img src='https://i.imgur.com/fHABTGj.png' alt='Ecommerce Project'>
@@ -59,3 +60,7 @@ For live preview, <strong><a href='https://mazononline.netlify.app/'>Click Here<
 <img src='img' alt='Ecommerce project'>
 
 <img src='img' alt='Ecommerce project'> -->
+=======
+# tokopedei-project
+Toko Perdagangan Ecer Indonesia
+>>>>>>> c522a92b283e4ebad4c4afb5dbbac6dc8757a1c5
